@@ -1,5 +1,4 @@
 # Identifiers in Python
-
 # Valid Identifiers
 name = "Vikas"
 _age = 20
