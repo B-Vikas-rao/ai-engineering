@@ -1,0 +1,11 @@
+import numpy as np
+a=np.array([1,2,3,4,5,6])
+b=a.reshape(2,3)
+print(b)
+c=a.reshape(3,2)
+print(c)
+d=np.array([1,2,3,4,5,6,7,8])
+e=d.reshape(2,2,2)
+print(e)
+print(b.flatten())
+print(e.ravel())
