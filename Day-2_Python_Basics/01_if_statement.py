@@ -2,7 +2,3 @@ age=20
 if age>=18:
     print("You are eligible to vote.")
 print("Program Completed.")
-
-# Output:
-# You are eligible to vote.
-# Program Ended

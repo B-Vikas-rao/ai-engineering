@@ -10,3 +10,9 @@ print("Values:",a.values())
 print("Items:",a.items())
 for i,j in a.items():
     print(i,j)
+
+
+
+
+
+    
