@@ -1,0 +1,13 @@
+import numpy as np
+a=np.array([1,2,3,4])
+print(a.shape)
+print(a.ndim)
+print(a.size)
+b=np.array([[1,2,3],[4,5,6]])
+print(b.shape)
+print(b.ndim)
+print(b.size)
+c=np.array([[[1,2],[3,4]],[[5,6],[7,8]]])
+print(c.shape)
+print(c.ndim)
+print(c.size)
